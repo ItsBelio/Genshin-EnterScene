@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 2
-  m_Shader: {fileID: 4800000, guid: 719972d89ed6d5245b1205b1f456ee47, type: 3}
+  m_Name: D1
+  m_Shader: {fileID: 4800000, guid: d5dfc214ad08ccd44b2a782b7f576dd3, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -18,20 +18,16 @@ Material:
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs:
-    - _texcoord:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
+    m_TexEnvs: []
     m_Floats:
-    - _Float0: 1
-    - _Float1: 0.5
-    - _Float2: 0
-    - _Float3: -100
+    - _Float0: 17.196064
+    - _Float1: 0
+    - _Metallic: 0.5
+    - _Smoothness: 0.5
     - _YOffset: -200
-    - _ZOffset: -100
+    - _ZOffset: 0
     - __dirty: 0
     m_Colors:
-    - _MainColor: {r: 0.5660378, g: 0.50591576, b: 0.39248845, a: 0}
-    - _Vector0: {r: 0.95, g: 1, b: 0.3, a: 0}
+    - _MainColor: {r: 0.5647059, g: 0.5058824, b: 0.39215687, a: 0}
+    - _Vector0: {r: 0.75, g: 1, b: 0.3, a: 0}
   m_BuildTextureStacks: []
